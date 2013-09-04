@@ -7,7 +7,10 @@ DemoTextField
       
       DemoTextField is a sample project those want to restric some charcter on textfiled like special character wont allow or only accept
   number or only accept string or it allow valid money format or restrict number charcter allowing to type. you can easily acheieve above functionality with adding this four file on your project.
-       
+          1. NSString+string.h
+          2. NSString+string.m
+          3. MVTextField.h
+          4. MVTextField.m
        
        
        This has property called 
