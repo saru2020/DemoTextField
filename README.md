@@ -1,6 +1,8 @@
 DemoTextField
 =============
+     Sample For TEXTfiled restrictions
 
+      
       DemoTextField is a sample project those want to restric some charcter on textfiled like special character wont allow or only accept
   number or only accept string or it allow valid money format or restrict number charcter allowing to type. you can easily acheieve above functionality with adding this four file on your project.
          This has property called 
